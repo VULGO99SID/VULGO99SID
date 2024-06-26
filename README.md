@@ -1,16 +1,15 @@
 ## *** BEM VINDO 😠🇧🇷
 
-<!--
-**VULGO99SID/VULGO99SID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Miguel mas me Chama de Sid
 
-Here are some ideas to get you started:
+- Estudando na Alura
+- Desenvolvedor de Linguagem JavaScript
+- Ultilizo esse local para publicação de Projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo através do seguinte Gmail 
+
+00001079695011sp@al.educacao.sp.gov.br
+ 
+Instagram: Miguel_dz9_
+
+![](https://i.gifer.com/origin/03/031ef1b9fa7799fccac35e9387d87620_w200.webp)
