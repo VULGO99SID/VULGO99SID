@@ -12,4 +12,4 @@ Meu Nome é Miguel mas me Chama de Sid
  
 Instagram: Miguel_dz9_
 
-![](https://i.gifer.com/origin/03/031ef1b9fa7799fccac35e9387d87620_w200.webp)
+![](https://i.gifer.com/origin/03/031ef1b9fa7799fccac35e9387d87620_w200.webp)  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ypZTlNQyxnrihtAeoMN83tVZ-Kr2lcH8YA&s)
